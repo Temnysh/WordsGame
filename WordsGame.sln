@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsGame", "WordsGame\WordsGame.csproj", "{CEE1E691-76BF-49E3-9FD3-44C274894177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE1E691-76BF-49E3-9FD3-44C274894177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE1E691-76BF-49E3-9FD3-44C274894177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE1E691-76BF-49E3-9FD3-44C274894177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE1E691-76BF-49E3-9FD3-44C274894177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
